@@ -1,0 +1,635 @@
+/* defines element sizing as taking padding and margin properties into account; */
+* {
+    box-sizing: border-box;
+}
+
+/* set a radial-gradient background for the <header> and <footer> elements, and set the opacity of both elements: */
+header, footer {
+    background: radial-gradient(#F4EFD2, #F3D944, #D8E33D, #91BC3C);
+    opacity: 0.9;
+}
+
+/* define rounded corners on the <header>, <img>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <figcaption>, and <footer> elements: */
+header, img, h1, h2, h3, h4, h5, h6, figcaption, footer {
+    border-radius: 5px;
+}
+
+/* define the position, height, display, vertical content alignment, horizontal content alignment, width, and z-index of the <header> element: */
+header {
+    position: fixed;
+    height: 200px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 99%;
+    z-index: 1;
+}
+
+/* define the display, horizontal positioning, border, text color, background color, and padding properties of the <header> <h1> element: */
+header h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #24310C;
+    color: #24310C;
+    background-color: #F4EFD2;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* defines the top padding of <h2> elements: */
+h2 {
+    padding-top: 10px;
+}
+
+/* set the maximum width of the <h2> element inside the <section>s whose 'id' attributes are equal to 'bio'/'projects'/'qualifications'/'contact', and position this element centrally along the horizontal axis: */
+#bio h2, #projects h2, #qualifications h2, #contact h2 {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* defines the font family, font size, and font weight of <h1> elements: */
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 4em;
+    font-weight: 700;
+}
+
+/* defines the background color, color, margin, and text alignment of <h1>, <h2>, <h3>, <h4>, <h5>, and <h6> elements: */
+h1, h2, h3, h4, h5, h6 {
+    background-color: #F4EFD2;
+    color: #24310C;
+    margin: 0 10px;
+    text-align: center;
+}
+
+/* defines the font family, font size, letter spacing, and font weight of <h2>, <h3>, <h4>, <h5>, and <h6> elements: */
+h2, h3, h4, h5, h6 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 3em;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+/* define the width and display of the <nav> element, and define the horizontal and vertical positioning of its child elements: */
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+/* define the margin, display, horizontal positioning, maximum width, and left-side padding of the nav <ul> element, and define the horizontal positioning
+and wrapping of its child elements: */
+nav ul {
+    margin: 0;
+    display: inline-flex;
+    justify-content: center;
+    max-width: 960px;
+    justify-items: center;
+    flex-wrap: wrap;
+    padding-left: 0;
+}
+
+/* define the display of the nav <li> elements: */
+nav li {
+    display: inline-flex;
+}
+
+/* define the font, font size, margin, and padding for <li>, <p>, and <figcaption> elements */
+li, p, figcaption, label {
+    font-family: 'Zilla Slab', serif;
+    font-size: 1.5em;
+    margin: 10px 0 0 0;
+    padding: 0 10px;
+}
+
+/* define the font-size of the header <h1> element on screens that are no greater than 1150 pixels wide: */
+@media only screen and (max-width: 1150px) {
+    header h1 {
+        font-size: 3em;
+    }
+}
+
+/* define the font-size of the header <h1> element on screens that are no greater than 950 pixels wide: */
+@media only screen and (max-width: 950px) {
+    header h1 {
+        font-size: 2em;
+    }
+}
+
+/* define the font-size of the header <h1> element on screens that are no greater than 650 pixels wide: */
+@media only screen and (max-width: 650px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+}
+
+/* define the font-size of the header <h1> element and <li> elements on screens that are no greater than 500 pixels wide: */
+@media only screen and (max-width: 500px) {
+    header h1, li {
+        font-size: 1.25em;
+    }
+}
+
+/* define the font-size of the header <h1> element and the <li> elements on screens that are no greater than 400 pixels wide: */
+@media only screen and (max-width: 400px) {
+    header h1, li {
+        font-size: 1.125em;
+    }
+}
+
+/* define the font-size of the header <h1> element and the <li> elements on screens that are no greater than 350 pixels wide: */
+@media only screen and (max-width: 350px) {
+    header h1, li {
+        font-size: 1.075em;
+    }
+}
+
+/* define the border, rounded corners, and padding of <a> elements */
+a {
+    border: 1px solid #24310C;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/* define the font weight, color, and background color of unvisited links: */
+a:link {
+    font-weight: bold;
+    color: #91BC3C;
+    background-color: #F4EFD2;
+}
+
+/* define the color of visited links: */
+a:visited {
+    color: #24310C;
+}
+
+/* define the background color and color of <a> elements when the cursor is hovered thereon: */
+a:hover {
+    background-color: #24310C;
+    color: #F4EFD2;
+}
+
+/* define the background color of the <a> elements whose purpose is to offset the fixed <header> when the cursor is hovered thereon: */
+a[id="offset_bio"]:hover, a[id="offset_projects"]:hover, a[id="offset_qualifications"]:hover, a[id="offset_contact"]:hover {
+    background-color: transparent;
+}
+
+/* define the background color of the <a> elements whose purpose is to offset the fixed <header> when they are the target of internal page navigation and the cursor is hovered thereon: */
+a[id="offset_bio"]:target:hover, a[id="offset_projects"]:target:hover, a[id="offset_qualifications"]:target:hover, a[id="offset_contact"]:target:hover {
+    background-color: #24310C;
+}
+
+/* define the color of active links: */
+a:active {
+    color: #F3D944;
+}
+
+/* remove the border for the <a> elements that are used to offset the fixed <header> when the internal page links are clicked;
+   also sets the width, horizontal text alignment, display, font family, and font size properties of these elements: */
+a[id="offset_bio"], a[id="offset_projects"], a[id="offset_qualifications"], a[id="offset_contact"] {
+    border: none;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Zilla Slab', serif;
+    font-size: 1em;
+}
+
+/* sets a height value of 200px to internal page anchors when the user navigates thereto so that the target <section> elements
+are correctly displayed (i.e. not hidden behind the 200px-tall fixed <header>); also ensures that the text will be centred vertically,
+and sets border, background color, and color properties: */
+:target {
+    border: 2px solid #91BC3C;
+    border-radius: 5px;
+    color: #F4EFD2;
+    background-color: #24310C;
+    height: 200px;
+    line-height: 200px;
+}
+
+/* adds text content to the page anchor that offsets the fixed <header> when the 'bio' <section> is navigated to: */
+a[id="offset_bio"]:target::after {
+    content: "~ Portfolio: Bio ~";
+}
+
+/* adds text content to the page anchor that offsets the fixed <header> when the 'projects' <section> is navigated to: */
+a[id="offset_projects"]:target::after {
+    content: "~ Portfolio: Projects ~";
+}
+
+/* adds text content to the page anchor that offsets the fixed <header> when the 'qualifications' <section> is navigated to: */
+a[id="offset_qualifications"]:target::after {
+    content: "~ Portfolio: Qualifications ~";
+}
+
+/* adds text content to the page anchor that offsets the fixed <header> when the 'contact' <section> is navigated to: */
+a[id="offset_contact"]:target::after {
+    content: "~ Portfolio: Contact ~";
+}
+
+/* sets the color and background color of the <a> elements (whose function is to link to example projects) to transparent; also removes
+   the border and padding from these elements: */
+a[class="link"] {
+    background-color: transparent;
+    color: transparent;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+}
+
+/* set the position of the <section id='bio'>, <section id='projects'>, <section id='qualifications'>, <section id='contact'>, and the <footer> elements
+   to take into account the fixed <header>: */
+#bio, #projects, #qualifications, #contact, footer {
+    position: relative;
+    top: 200px;
+}
+
+/* defines the margin and width of the <figure> elements: */
+figure {
+    margin: 10px;
+    width: 300px;
+}
+
+/* sets the horizontal alignment of <figure> and <p> elements inside the 'bio' <section>, as well as the <p> elements inside the 'projects', 'qualifications',
+   and 'contact' <section>s: */
+#bio figure, #bio p, #projects p, #qualifications p, #contact p {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* sets the horizontal text alignment and top margin of the <p> elements inside the 'bio', 'projects', 'qualifications', and 'contact' <section>s: */
+#bio p, #projects p, #qualifications p, #contact p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* defines the height and width of the figure <img> elements: */
+figure img {
+    height: 450px;
+    width: 300px;
+}
+
+/* define the curvature of <img> elements inside the <section id='bio'> and <div id='family_members'>: */
+#bio img, #family_members img {
+    border-radius: 50%;
+}
+
+/* sets the height, width, and border properties of the <figure> elements inside the 'project_examples' <div> element: */
+#project_examples figure {
+    height: 660px;
+    width: 310px;
+    border: 5px solid #24310C;
+    border-radius: 5px;
+}
+
+/* sets the height, top border, and border radius properties of the <figcaption> elements inside the 'project_examples' <div> element: */
+#project_examples figcaption {
+    height: 185px;
+    border-top: 2px solid #24310C;
+    border-radius: 5px;
+}
+
+/* defines the text alignment, top margin, font weight, and the background color of the <figcaption> elements: */
+figcaption {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    background-color: khaki;
+}
+
+/* define the background color, width, display, and rounded corners of the <span> elements: */
+span {
+    background-color: #F4EFD2;
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+
+/* defines the top margin, display, flex direction, flex wrap, horizontal content alignment, vertical item alignment, and flex-basis of the <div id='family_members'> and <div id='project_examples'> elements: */
+#family_members, #project_examples {
+    margin-top: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: start;
+    flex-basis: 1000px;
+}
+
+/* defines the positioning, width, and color of the <hr> elements: */
+hr {
+    position: relative;
+    top: 200px;
+    width: 100%;
+    color: #24310C;
+}
+
+/* define the width of the <section id="qualifications"> element: */
+#qualifications {
+    width: 100%;
+}
+
+/* defines the grid display, grid gap, and margin of the <div class='movie_grid_container'> element: */
+.qualification_grid_container {
+    display: grid;
+    grid-gap: 50px;
+    margin: 10px auto;
+}
+
+/* defines the width, height, and border radius of the <img>s inside the <div class='movie_grid_container'> element: */
+.qualification_grid_container img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+/* defines the grid areas of the fourteen qualification <img>s: */
+.qualification1 {
+    grid-area: qualification1;
+}
+
+.qualification2 {
+    grid-area: qualification2;
+}
+
+.qualification3 {
+    grid-area: qualification3;
+}
+
+.qualification4 {
+    grid-area: qualification4;
+}
+
+.qualification5 {
+    grid-area: qualification5;
+}
+
+.qualification6 {
+    grid-area: qualification6;
+}
+
+.qualification7 {
+    grid-area: qualification7;
+}
+
+.qualification8 {
+    grid-area: qualification8;
+}
+
+.qualification9 {
+    grid-area: qualification9;
+}
+
+.qualification10 {
+    grid-area: qualification10;
+}
+
+.qualification11 {
+    grid-area: qualification11;
+}
+
+.qualification12 {
+    grid-area: qualification12;
+}
+
+.qualification13 {
+    grid-area: qualification13;
+}
+
+.qualification14 {
+    grid-area: qualification14;
+}
+
+/* defines the 1 x 14 layout of certificates on mobile devices, and also specifies the width of the <form> element on such devices: */
+@media only screen and (min-width: 300px) {
+    form {
+        width: 300px;
+    }
+    .qualification_grid_container {
+        width: 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(14, auto);
+        grid-template-areas: "qualification1"
+                             "qualification2"
+                             "qualification3"
+                             "qualification4"
+                             "qualification5"
+                             "qualification6"
+                             "qualification7"
+                             "qualification8"
+                             "qualification9"
+                             "qualification10"
+                             "qualification11"
+                             "qualification12"
+                             "qualification13"
+                             "qualification14";
+    }
+}
+
+/* defines the 2 x 7 layout of certificates on devices with a minimum width of 620px, and also specifies the width of the <form> element on such devices: */
+@media only screen and (min-width: 700px) {
+    form {
+        width: 600px;
+    }
+    .qualification_grid_container {
+        width: 650px;
+        grid-template-columns: repeat(2, 300px);
+        grid-template-rows: repeat(7, 450px);
+        grid-template-areas: "qualification1 qualification2"
+                             "qualification3 qualification4"
+                             "qualification5 qualification6"
+                             "qualification7 qualification8"
+                             "qualification9 qualification10"
+                             "qualification11 qualification12"
+                             "qualification13 qualification14";
+    }
+    /* defines the increased grid areas for the qualification <img>s when the cursor is hovered thereon: */
+    .qualification1:hover, .qualification2:hover {
+        grid-area: 1 / 1 / 3 / 3;
+        z-index: 1;
+    }
+    .qualification3:hover, .qualification4:hover {
+        grid-area: 2 / 1 / 4 / 3;
+        z-index: 1;
+    }
+    .qualification5:hover, .qualification6:hover {
+        grid-area: 3 / 1 / 5 / 3;
+        z-index: 1;
+    }
+    .qualification7:hover, .qualification8:hover {
+        grid-area: 4 / 1 / 6 / 3;
+        z-index: 1;
+    }
+    .qualification9:hover, .qualification10:hover {
+        grid-area: 5 / 1 / 7 / 3;
+        z-index: 1;
+    }
+    .qualification11:hover, .qualification12:hover, .qualification13:hover, .qualification14:hover {
+        grid-area: 6 / 1 / 8 / 3;
+        z-index: 1;
+    }
+}
+
+/* defines the 3 x 5 layout of certificates on devices with a minimum width of 1050px, and also defines the width of the <form> element on such devices: */
+@media only screen and (min-width: 1050px) {
+    form {
+        width: 900px;
+    }
+    .qualification_grid_container {
+        width: 1000px;
+        grid-template-columns: repeat(3, 300px);
+        grid-template-rows: repeat(5, 450px);
+        grid-template-areas: "qualification1 qualification2 qualification3"
+                             "qualification4 qualification5 qualification6"
+                             "qualification7 qualification8 qualification9"
+                             "qualification10 qualification11 qualification12"
+                             "qualification13 qualification14 .";
+    }
+    /* defines the increased grid areas of the qualification <img>s when the cursor is hovered thereon: */
+    .qualification1:hover, .qualification2:hover {
+        grid-area: 1 / 1 / 3 / 3;
+        z-index: 1;
+    }
+    .qualification3:hover {
+        grid-area: 1 / 2 / 3 / 4;
+        z-index: 1;
+    }
+    .qualification4:hover, .qualification5:hover {
+        grid-area: 2 / 1 / 4 / 3;
+        z-index: 1;
+    }
+    .qualification6:hover {
+        grid-area: 2 / 2 / 4 / 4;
+        z-index: 1;
+    }
+    .qualification7:hover, .qualification8:hover {
+        grid-area: 3 / 1 / 5 / 3;
+        z-index: 1;
+    }
+    .qualification9:hover {
+        grid-area: 3 / 2 / 5 / 4;
+        z-index: 1;
+    }
+    .qualification10:hover, .qualification11:hover, .qualification13:hover, .qualification14:hover {
+        grid-area: 4 / 1 / 6 / 3;
+        z-index: 1;
+    }
+    .qualification12:hover {
+        grid-area: 4 / 2 / 6 / 4;
+        z-index: 1;
+    }
+}
+
+/* defines a 4 x 4 layout of certificates on devices with a minimum width of 1400px, and also specifies the width of the <form> element on such devices: */
+@media only screen and (min-width: 1400px) {
+    form {
+        width: 1200px;
+    }
+    .qualification_grid_container {
+        width: 1350px;
+        grid-template-areas: "qualification1 qualification2 qualification3 qualification4"
+                             "qualification5 qualification6 qualification7 qualification8"
+                             "qualification9 qualification10 qualification11 qualification12"
+                             "qualification13 qualification14 . .";
+        grid-template-columns: repeat(4, 300px);
+        grid-template-rows: repeat(4, 450px);
+    }
+    /* defines the increased grid areas of the qualification <img>s when the cursor is hovered thereon: */
+    .qualification1:hover, .qualification2:hover {
+        grid-area: 1 / 1 / 3 / 3;
+        z-index: 1;
+    }
+    .qualification3:hover, .qualification4:hover {
+        grid-area: 1 / 3 / 3 / 5;
+        z-index: 1;
+    }
+    .qualification5:hover, .qualification6:hover {
+        grid-area: 2 / 1 / 4 / 3;
+        z-index: 1;
+    }
+    .qualification7:hover, .qualification8:hover {
+        grid-area: 2 / 3 / 4 / 5;
+        z-index: 1;
+    }
+    .qualification9:hover, .qualification10:hover, .qualification13:hover, .qualification14:hover {
+        grid-area: 3 / 1 / 5 / 3;
+        z-index: 1;
+    }
+    .qualification11:hover, .qualification12:hover {
+        grid-area: 3 / 3 / 5 / 5;
+        z-index: 1;
+    }
+}
+
+/* defines the top, right, and left margins, as well as the horizontal text alignment, border, background color, and font weight
+   of the <form> element: */
+form {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    border: 2px solid #24310C;
+    border-radius: 5px;
+    background-color: #F4EFD2;
+    font-weight: bold;
+}
+
+/* defines the bottom margin of the <p> element inside the <form> element: */
+form p {
+    margin-bottom: 20px;
+}
+
+/* defines the border, height, width, and horizontal alignment of the <iframe id='serverResponse'> element: */
+#serverResponse {
+    border: none;
+    height: 100px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* defines the margin, width, border radius, font family, and font size of the <input> and <textarea> elements: */
+input, textarea {
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5px;
+    font-family: "Zilla Slab", serif;
+    font-size: 1.5em;
+}
+
+/* defines the border and max-width of the <textarea> element: */
+textarea {
+    border: 2px solid #24310C;
+    max-width: 95%;
+}
+
+/* defines the height of the <input> elements: */
+input {
+    height: 50px;
+}
+
+/* defines the color, background color, width, display, and border radius of the <span class="red"> elements: */
+span[class="red"] {
+    color: red;
+    background-color: #F4EFD2;
+    width: fit-content;
+    display: inline;
+    border-radius: 0;
+}
+
+/* defines the font weight, font family, and font size of the <input type="submit"> element: */
+input[type="submit"] {
+    font-weight: bold;
+    font-family: "Zilla Slab", serif;
+    font-size: 1.5em;
+}
+
+/* defines the horizontal alignment, font weight, and padding of footer <p> elements: */
+footer p {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
