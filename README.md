@@ -17,7 +17,9 @@ The projects that this website showcases are as follows:
 - a website style guide
 - a responsive website for an imaginary company, *The Lar Tea Shop*
 - a responsive website for an imaginary club, the *Penwithick Movie Club*
-- a *WordPress* website that I have been working on since December 2015 
+- a *WordPress* website that I have been working on since December 2015
+- a responsive React app that interfaces with the *Spotify API*
+- a responsive React app that interfaces with the *Reddit JSON API* 
 
 This personal portfolio website is structured as followed:
 
