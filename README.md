@@ -20,6 +20,8 @@ The projects that this website showcases are as follows:
 - a *WordPress* website that I have been working on since December 2015
 - a responsive React app that interfaces with the *Spotify API*
 - a responsive React app that interfaces with the *Reddit JSON API* 
+- an e-commerce application *REST API*
+- a pet adoption website, *Adopt a Pet!*
 
 This personal portfolio website is structured as followed:
 
