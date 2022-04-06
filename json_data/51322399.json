@@ -1,0 +1,107 @@
+{
+  "id": 51322399,
+  "organization_id": "CA2737",
+  "url": "https://www.petfinder.com/dog/gia-51322399/ca/glendora/socal-animal-rescue-squad-scars-ca2737/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Chihuahua",
+    "secondary": "Mixed Breed",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Apricot / Beige",
+    "secondary": "White / Cream",
+    "tertiary": null
+  },
+  "age": "Baby",
+  "gender": "Female",
+  "size": "Small",
+  "coat": "Short",
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": true, "cats": null },
+  "tags": [
+    "Loving",
+    "playful",
+    "affectionate",
+    "fun",
+    "funny",
+    "spunky",
+    "cuddler",
+    "social"
+  ],
+  "name": "Gia",
+  "description": "NOTE: We update our posts daily. If you are reading this, we are still accepting applications. We will NOT respond...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/1/?bust=1619219077\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/1/?bust=1619219077\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/1/?bust=1619219077\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/1/?bust=1619219077"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/2/?bust=1619219012\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/2/?bust=1619219012\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/2/?bust=1619219012\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/2/?bust=1619219012"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/3/?bust=1619218822\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/3/?bust=1619218822\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/3/?bust=1619218822\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/3/?bust=1619218822"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/4/?bust=1619219102\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/4/?bust=1619219102\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/4/?bust=1619219102\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/4/?bust=1619219102"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047"
+  },
+  "videos": [
+    {
+      "embed": "\u003Ciframe title=\u0022Video\u0022 src=\u0022https://www.youtube.com/embed/PpolC9EpOR8?enablejsapi=1\u0022 frameborder=\u00220\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
+    }
+  ],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:05:16+0000",
+  "published_at": "2021-04-23T23:05:16+0000",
+  "distance": null,
+  "contact": {
+    "email": "info@jointhescars.org",
+    "phone": "(626) 387-9093",
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Glendora",
+      "state": "CA",
+      "postcode": "91740",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322399" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ca2737" }
+  }
+}
