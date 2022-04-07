@@ -1,0 +1,94 @@
+{
+  "id": 51322336,
+  "organization_id": "GA888",
+  "url": "https://www.petfinder.com/dog/roscoe-51322336/ga/roswell/barkville-dog-rescue-ga888/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Boxer",
+    "secondary": "Shepherd",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Brown / Chocolate",
+    "secondary": "White / Cream",
+    "tertiary": null
+  },
+  "age": "Young",
+  "gender": "Male",
+  "size": "Medium",
+  "coat": "Short",
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": true, "cats": null },
+  "tags": ["Loving", "Affectionate", "Happy", "Friendly"],
+  "name": "Roscoe",
+  "description": "Roscoe is a sweet \u0026amp; friendly Boxer/Shepherd mix who is 3 yrs old, weighs 50 lbs, and is in IMMEDIATE...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/?bust=1619219029\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/?bust=1619219029\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/?bust=1619219029\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/?bust=1619219029"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/1/?bust=1619218694\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/1/?bust=1619218694\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/1/?bust=1619218694\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/1/?bust=1619218694"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/3/?bust=1619218699\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/3/?bust=1619218699\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/3/?bust=1619218699\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/3/?bust=1619218699"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/4/?bust=1619218701\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/4/?bust=1619218701\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/4/?bust=1619218701\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/4/?bust=1619218701"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/5/?bust=1619218738\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/5/?bust=1619218738\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/5/?bust=1619218738\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/5/?bust=1619218738"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/crop/?bust=1619219029\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/crop/?bust=1619219029\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/crop/?bust=1619219029\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322336/2/crop/?bust=1619219029"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:04:04+0000",
+  "published_at": "2021-04-23T23:04:04+0000",
+  "distance": null,
+  "contact": {
+    "email": "info@barkvilledogrescue.org",
+    "phone": null,
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Roswell",
+      "state": "GA",
+      "postcode": "30077",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322336" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ga888" }
+  }
+}
