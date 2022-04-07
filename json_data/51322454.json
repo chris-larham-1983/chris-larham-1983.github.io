@@ -1,0 +1,54 @@
+{
+  "id": 51322454,
+  "organization_id": "UT28",
+  "url": "https://www.petfinder.com/cat/cosmo-51322454/ut/murray/humane-society-of-utah-ut28/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Long Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": { "primary": "White", "secondary": "Black", "tertiary": null },
+  "age": "Young",
+  "gender": "Male",
+  "size": "Medium",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Cosmo",
+  "description": "10598",
+  "organization_animal_id": "HSUT-A-10598",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:05:11+0000",
+  "published_at": "2021-04-23T23:05:11+0000",
+  "distance": null,
+  "contact": {
+    "email": "adoptions@utahhumane.org",
+    "phone": "(801) 261-2919 option 4",
+    "address": {
+      "address1": "4242 South 300 West",
+      "address2": null,
+      "city": "Murray",
+      "state": "UT",
+      "postcode": "84157",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322454" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/ut28" }
+  }
+}
