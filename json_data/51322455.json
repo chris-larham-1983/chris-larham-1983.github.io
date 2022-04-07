@@ -1,0 +1,54 @@
+{
+  "id": 51322455,
+  "organization_id": "NY465",
+  "url": "https://www.petfinder.com/cat/dottie-51322455/ny/hamburg/the-ten-lives-club-ny465/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Short Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": { "primary": "Black", "secondary": "White", "tertiary": null },
+  "age": "Young",
+  "gender": "Female",
+  "size": "Small",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Dottie",
+  "description": null,
+  "organization_animal_id": "TLC-A-19048",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:05:18+0000",
+  "published_at": "2021-04-23T23:05:18+0000",
+  "distance": null,
+  "contact": {
+    "email": "tenlivesclub@yahoo.com",
+    "phone": "(716) 646-5577",
+    "address": {
+      "address1": "3741 Lakeshore Road",
+      "address2": null,
+      "city": "Hamburg",
+      "state": "NY",
+      "postcode": "14075",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322455" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/ny465" }
+  }
+}
