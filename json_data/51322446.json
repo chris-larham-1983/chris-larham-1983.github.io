@@ -1,0 +1,58 @@
+{
+  "id": 51322446,
+  "organization_id": "TN529",
+  "url": "https://www.petfinder.com/cat/tigger-51322446/tn/evensville/rhea-county-animal-shelter-tn529/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Short Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Orange / Red",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Senior",
+  "gender": "Male",
+  "size": "Small",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Tigger",
+  "description": null,
+  "organization_animal_id": "ASA-A-1639",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:05:08+0000",
+  "published_at": "2021-04-23T23:05:08+0000",
+  "distance": null,
+  "contact": {
+    "email": "Kesha.RCAS@gmail.com",
+    "phone": "(423) 775-2029",
+    "address": {
+      "address1": "9118 Back Valley Road",
+      "address2": null,
+      "city": "Evensville",
+      "state": "TN",
+      "postcode": "37332",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322446" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/tn529" }
+  }
+}
