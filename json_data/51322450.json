@@ -1,0 +1,58 @@
+{
+  "id": 51322450,
+  "organization_id": "TN529",
+  "url": "https://www.petfinder.com/dog/nosey-51322450/tn/evensville/rhea-county-animal-shelter-tn529/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Shepherd",
+    "secondary": null,
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Brown / Chocolate",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Baby",
+  "gender": "Male",
+  "size": "Small",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": false,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Nosey",
+  "description": null,
+  "organization_animal_id": "ASA-A-1716",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:05:08+0000",
+  "published_at": "2021-04-23T23:05:08+0000",
+  "distance": null,
+  "contact": {
+    "email": "Kesha.RCAS@gmail.com",
+    "phone": "(423) 775-2029",
+    "address": {
+      "address1": "9118 Back Valley Road",
+      "address2": null,
+      "city": "Evensville",
+      "state": "TN",
+      "postcode": "37332",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322450" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/tn529" }
+  }
+}
