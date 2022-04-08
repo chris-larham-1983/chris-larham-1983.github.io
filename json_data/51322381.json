@@ -1,0 +1,100 @@
+{
+  "id": 51322381,
+  "organization_id": "NY1199",
+  "url": "https://www.petfinder.com/dog/bella-51322381/ny/new-york/animal-lighthouse-rescue-ny1199/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Labrador Retriever",
+    "secondary": "Collie",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Black",
+    "secondary": "White / Cream",
+    "tertiary": null
+  },
+  "age": "Adult",
+  "gender": "Female",
+  "size": "Medium",
+  "coat": "Medium",
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": ["sweet", "gentle", "quiet", "affectionate", "smart"],
+  "name": "Bella",
+  "description": "Meet Bella! She is a 3 year old, 43 pound, female, Labrador/Collie Mix. Bella is the sweetest and most gentle...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/1/?bust=1619218381\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/1/?bust=1619218381\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/1/?bust=1619218381\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/1/?bust=1619218381"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/2/?bust=1619218458\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/2/?bust=1619218458\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/2/?bust=1619218458\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/2/?bust=1619218458"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/3/?bust=1619218389\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/3/?bust=1619218389\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/3/?bust=1619218389\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/3/?bust=1619218389"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/4/?bust=1619218464\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/4/?bust=1619218464\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/4/?bust=1619218464\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/4/?bust=1619218464"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/5/?bust=1619218473\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/5/?bust=1619218473\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/5/?bust=1619218473\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/5/?bust=1619218473"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322381/6/?bust=1619218484"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:01:12+0000",
+  "published_at": "2021-04-23T23:01:12+0000",
+  "distance": null,
+  "contact": {
+    "email": "info@ALRcares.com",
+    "phone": null,
+    "address": {
+      "address1": "PO Box 30349",
+      "address2": null,
+      "city": "New York",
+      "state": "NY",
+      "postcode": "10011",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322381" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ny1199" }
+  }
+}
