@@ -1,0 +1,54 @@
+{
+  "id": 51322403,
+  "organization_id": "ID38",
+  "url": "https://www.petfinder.com/cat/boo-barn-cat-only-feral-51322403/id/priest-river/priest-river-animal-rescue-id38/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Long Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": { "primary": null, "secondary": null, "tertiary": null },
+  "age": "Young",
+  "gender": "Male",
+  "size": "Medium",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": false
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Boo - Barn Cat Only - Feral",
+  "description": "FeralBoo came to the rescue by way of a trap. They thought he was just scared and wanted him to...",
+  "organization_animal_id": "16729315",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:58:56+0000",
+  "published_at": "2021-04-23T22:58:56+0000",
+  "distance": null,
+  "contact": {
+    "email": "pranimalhouse@hotmail.com",
+    "phone": "(208) 448-0699",
+    "address": {
+      "address1": "5538 Highway 2",
+      "address2": "PO Box 1626",
+      "city": "Priest River",
+      "state": "ID",
+      "postcode": "83856",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322403" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/id38" }
+  }
+}
