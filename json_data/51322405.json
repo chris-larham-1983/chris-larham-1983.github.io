@@ -1,0 +1,58 @@
+{
+  "id": 51322405,
+  "organization_id": "NV36",
+  "url": "https://www.petfinder.com/cat/chicken-dumpling-51322405/nv/reno/nevada-humane-society-nv36/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Short Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Gray / Blue / Silver",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Adult",
+  "gender": "Male",
+  "size": "Large",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Chicken Dumpling",
+  "description": null,
+  "organization_animal_id": "NHS-A-100767",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:00:15+0000",
+  "published_at": "2021-04-23T23:00:15+0000",
+  "distance": null,
+  "contact": {
+    "email": "info@nevadahumanesociety.org",
+    "phone": "(775) 856-2000 ext. 302",
+    "address": {
+      "address1": "2825 Longley Lane",
+      "address2": "Suite B",
+      "city": "Reno",
+      "state": "NV",
+      "postcode": "89502",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322405" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/nv36" }
+  }
+}
