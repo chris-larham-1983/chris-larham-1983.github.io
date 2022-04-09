@@ -1,0 +1,58 @@
+{
+  "id": 51322410,
+  "organization_id": "CA1886",
+  "url": "https://www.petfinder.com/cat/mochi-chino-hills-location-51322410/ca/chino-hills/priceless-pet-rescue-ca1886/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Russian Blue",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Gray / Blue / Silver",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Adult",
+  "gender": "Female",
+  "size": "Small",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Mochi - Chino Hills Location",
+  "description": null,
+  "organization_animal_id": "PPR-A-16034",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:00:20+0000",
+  "published_at": "2021-04-23T23:00:20+0000",
+  "distance": null,
+  "contact": {
+    "email": "priceless.pets@yahoo.com",
+    "phone": "(909) 203-3695",
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Chino Hills",
+      "state": "CA",
+      "postcode": "91709",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322410" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/ca1886" }
+  }
+}
