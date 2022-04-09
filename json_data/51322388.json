@@ -1,0 +1,66 @@
+{
+  "id": 51322388,
+  "organization_id": "TN25",
+  "url": "https://www.petfinder.com/cat/oliver-51322388/tn/chattanooga/humane-educational-society-of-chattanooga-tn-tn25/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Short Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": { "primary": "Black", "secondary": null, "tertiary": null },
+  "age": "Young",
+  "gender": "Male",
+  "size": "Large",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Oliver",
+  "description": null,
+  "organization_animal_id": "HES-A-26012",
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322388/1/?bust=1619219121"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:55:11+0000",
+  "published_at": "2021-04-23T22:55:11+0000",
+  "distance": null,
+  "contact": {
+    "email": "adopt@heschatt.org",
+    "phone": "(423) 624-5302",
+    "address": {
+      "address1": "4155 Randolph Circle",
+      "address2": null,
+      "city": "Chattanooga",
+      "state": "TN",
+      "postcode": "37406",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322388" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/tn25" }
+  }
+}
