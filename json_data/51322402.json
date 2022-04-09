@@ -1,0 +1,58 @@
+{
+  "id": 51322402,
+  "organization_id": "CA39",
+  "url": "https://www.petfinder.com/cat/luttu-51322402/ca/burlingame/peninsula-humane-society-and-spca-ca39/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Domestic Short Hair",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Orange \u0026 White",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Senior",
+  "gender": "Male",
+  "size": "Large",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Luttu",
+  "description": "Hey there, I\u0026amp;#39;m Luttu! I\u0026amp;#39;m an 11 year old, large sized, neutered, domestic short hair cat. I\u0026amp;#39;m a calm and...",
+  "organization_animal_id": "16728488-A892991",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:58:55+0000",
+  "published_at": "2021-04-23T22:58:55+0000",
+  "distance": null,
+  "contact": {
+    "email": "adoptinquire@peninsulahumanesociety.org",
+    "phone": "650-340-7022",
+    "address": {
+      "address1": "1450 Rollins Road",
+      "address2": null,
+      "city": "Burlingame",
+      "state": "CA",
+      "postcode": "94010",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322402" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/ca39" }
+  }
+}
