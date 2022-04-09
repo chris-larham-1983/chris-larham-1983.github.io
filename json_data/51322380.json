@@ -1,0 +1,70 @@
+{
+  "id": 51322380,
+  "organization_id": "PA02",
+  "url": "https://www.petfinder.com/cat/douglas-51322380/pa/temple/one-by-one-inc-pa02/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Tabby",
+    "secondary": null,
+    "mixed": false,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Tabby (Brown / Chocolate)",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Adult",
+  "gender": "Male",
+  "size": "Large",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": true, "dogs": true, "cats": true },
+  "tags": [],
+  "name": "Douglas",
+  "description": "Meet Douglas! Douglas is much loved by all of us at the shelter. Everyone who meets him, loves him. He...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322380/1/?bust=1619218381"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:55:53+0000",
+  "published_at": "2021-04-23T22:55:53+0000",
+  "distance": null,
+  "contact": {
+    "email": "adopt@1by1catrescue.org",
+    "phone": null,
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Temple",
+      "state": "PA",
+      "postcode": "19560",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322380" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/pa02" }
+  }
+}
