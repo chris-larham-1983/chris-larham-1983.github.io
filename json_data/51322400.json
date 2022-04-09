@@ -1,0 +1,54 @@
+{
+  "id": 51322400,
+  "organization_id": "CA39",
+  "url": "https://www.petfinder.com/dog/cookie-51322400/ca/burlingame/peninsula-humane-society-and-spca-ca39/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Pit Bull Terrier",
+    "secondary": "Labrador Retriever",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": { "primary": null, "secondary": null, "tertiary": null },
+  "age": "Adult",
+  "gender": "Female",
+  "size": "Medium",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Cookie",
+  "description": "Hello, I\u0026amp;#39;m Cookie and I\u0026amp;#39;m a 2.5 year old spayed female Pitbull/Labrador Retriever mix and I weight about 53LB. I\u0026amp;#39;m...",
+  "organization_animal_id": "16728781-A893884",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:58:54+0000",
+  "published_at": "2021-04-23T22:58:54+0000",
+  "distance": null,
+  "contact": {
+    "email": "adoptinquire@peninsulahumanesociety.org",
+    "phone": "650-340-7022",
+    "address": {
+      "address1": "1450 Rollins Road",
+      "address2": null,
+      "city": "Burlingame",
+      "state": "CA",
+      "postcode": "94010",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322400" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ca39" }
+  }
+}
