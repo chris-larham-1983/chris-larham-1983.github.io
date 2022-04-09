@@ -1,0 +1,58 @@
+{
+  "id": 51322406,
+  "organization_id": "CA1886",
+  "url": "https://www.petfinder.com/dog/angel-claremont-location-51322406/ca/chino-hills/priceless-pet-rescue-ca1886/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Terrier",
+    "secondary": "Yellow Labrador Retriever",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Yellow / Tan / Blond / Fawn",
+    "secondary": null,
+    "tertiary": null
+  },
+  "age": "Adult",
+  "gender": "Female",
+  "size": "Medium",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Angel - Claremont Location",
+  "description": null,
+  "organization_animal_id": "PPR-A-15862",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:00:19+0000",
+  "published_at": "2021-04-23T23:00:19+0000",
+  "distance": null,
+  "contact": {
+    "email": "priceless.pets@yahoo.com",
+    "phone": "(909) 203-3695",
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Chino Hills",
+      "state": "CA",
+      "postcode": "91709",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322406" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ca1886" }
+  }
+}
