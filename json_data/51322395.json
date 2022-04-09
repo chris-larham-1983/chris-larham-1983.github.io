@@ -1,0 +1,54 @@
+{
+  "id": 51322395,
+  "organization_id": "CA223",
+  "url": "https://www.petfinder.com/dog/salty-51322395/ca/apple-valley/beagles-and-buddies-ca223/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Chihuahua",
+    "secondary": null,
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": { "primary": null, "secondary": null, "tertiary": null },
+  "age": "Young",
+  "gender": "Male",
+  "size": "Small",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": false,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": false
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Salty",
+  "description": "Salty is a nice, young chihuahua mix. Light brown. About 10-12 lbs. He loves running around our big front yard...",
+  "organization_animal_id": "16729322",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:55:53+0000",
+  "published_at": "2021-04-23T22:55:53+0000",
+  "distance": null,
+  "contact": {
+    "email": "beaglesandbuddies@gmail.com",
+    "phone": null,
+    "address": {
+      "address1": "23430 US Hwy #18",
+      "address2": null,
+      "city": "Apple Valley",
+      "state": "CA",
+      "postcode": "92307",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322395" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ca223" }
+  }
+}
