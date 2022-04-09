@@ -1,0 +1,54 @@
+{
+  "id": 51322416,
+  "organization_id": "LA32",
+  "url": "https://www.petfinder.com/dog/nola-51322416/la/hammond/tangipahoa-parish-animal-control-la32/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Pit Bull Terrier",
+    "secondary": "Mixed Breed",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": { "primary": null, "secondary": null, "tertiary": null },
+  "age": "Adult",
+  "gender": "Female",
+  "size": "Small",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Nola",
+  "description": "No Notes",
+  "organization_animal_id": "76780",
+  "photos": [],
+  "primary_photo_cropped": null,
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T23:00:42+0000",
+  "published_at": "2021-04-23T23:00:42+0000",
+  "distance": null,
+  "contact": {
+    "email": "tpac@tangipahoa.org",
+    "phone": "985-543-0215",
+    "address": {
+      "address1": "15487 Club Deluxe Rd.",
+      "address2": null,
+      "city": "Hammond",
+      "state": "LA",
+      "postcode": "70403",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322416" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/la32" }
+  }
+}
