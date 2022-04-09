@@ -1,0 +1,72 @@
+{
+  "id": 51322382,
+  "organization_id": "CA2718",
+  "url": "https://www.petfinder.com/dog/pinkie-51322382/ca/sun-valley/frankie-lola-and-friends-animal-rescue-foundation-ca2718/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Pit Bull Terrier",
+    "secondary": "Catahoula Leopard Dog",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": { "primary": "Sable", "secondary": null, "tertiary": null },
+  "age": "Adult",
+  "gender": "Female",
+  "size": "Medium",
+  "coat": "Short",
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": null, "dogs": true, "cats": true },
+  "tags": [],
+  "name": "PINKIE",
+  "description": "COURTESY POST!  NOT WITH THIS RESCUE.  Please contact owner directly at martin.n.ross@gmail.com\n\nPinkie is a very pretty female Catahoula Leopard...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/1/?bust=1619218693\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/1/?bust=1619218693\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/1/?bust=1619218693\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/1/?bust=1619218693"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322382/2/?bust=1619218694"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:57:22+0000",
+  "published_at": "2021-04-23T22:57:22+0000",
+  "distance": null,
+  "contact": {
+    "email": "frankielolaandlisa@gmail.com",
+    "phone": "(818) 388-6982",
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Sun Valley",
+      "state": "CA",
+      "postcode": "91352",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322382" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/ca2718" }
+  }
+}
