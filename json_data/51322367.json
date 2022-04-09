@@ -1,0 +1,78 @@
+{
+  "id": 51322367,
+  "organization_id": "OH98",
+  "url": "https://www.petfinder.com/dog/nani-47005794-51322367/oh/hamilton/animal-friends-humane-society-oh98/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "German Shepherd Dog",
+    "secondary": null,
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": { "primary": null, "secondary": null, "tertiary": null },
+  "age": "Senior",
+  "gender": "Female",
+  "size": "Medium",
+  "coat": null,
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": true, "dogs": null, "cats": null },
+  "tags": [],
+  "name": "Nani 47005794",
+  "description": "Meet Nani a 7 year old German Shepherd who came in as an owner surrender due to having a tumor...",
+  "organization_animal_id": "47005794",
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/2/?bust=1619218308\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/2/?bust=1619218308\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/2/?bust=1619218308\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/2/?bust=1619218308"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/3/?bust=1619218314\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/3/?bust=1619218314\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/3/?bust=1619218314\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/3/?bust=1619218314"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322367/1/?bust=1619218263"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:55:22+0000",
+  "published_at": "2021-04-23T22:55:22+0000",
+  "distance": null,
+  "contact": {
+    "email": "AnimalFriendsHS@butlercountyohio.org",
+    "phone": "(513) 867-5727",
+    "address": {
+      "address1": "1820 Princeton Road",
+      "address2": null,
+      "city": "Hamilton",
+      "state": "OH",
+      "postcode": "45011",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322367" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/oh98" }
+  }
+}
