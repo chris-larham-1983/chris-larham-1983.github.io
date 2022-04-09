@@ -1,0 +1,94 @@
+{
+  "id": 51322384,
+  "organization_id": "IL188",
+  "url": "https://www.petfinder.com/dog/hollis-51322384/il/schaumburg/chicagoland-dog-rescue-il188/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Dog",
+  "species": "Dog",
+  "breeds": {
+    "primary": "Redbone Coonhound",
+    "secondary": null,
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Red / Chestnut / Orange",
+    "secondary": "White / Cream",
+    "tertiary": null
+  },
+  "age": "Baby",
+  "gender": "Female",
+  "size": "Medium",
+  "coat": "Short",
+  "attributes": {
+    "spayed_neutered": false,
+    "house_trained": false,
+    "declawed": null,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": true, "dogs": true, "cats": null },
+  "tags": [],
+  "name": "Hollis",
+  "description": "*PLEASE NOTE:  We do not adopt out on a first-come/first-serve basis.  Applications are accepted for a puppy and then a...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/1/?bust=1619218528\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/1/?bust=1619218528\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/1/?bust=1619218528\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/1/?bust=1619218528"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/3/?bust=1619218531\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/3/?bust=1619218531\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/3/?bust=1619218531\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/3/?bust=1619218531"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/4/?bust=1619218532\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/4/?bust=1619218532\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/4/?bust=1619218532\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/4/?bust=1619218532"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/5/?bust=1619218596\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/5/?bust=1619218596\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/5/?bust=1619218596\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/5/?bust=1619218596"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322384/2/?bust=1619218530"
+  },
+  "videos": [],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:57:06+0000",
+  "published_at": "2021-04-23T22:57:06+0000",
+  "distance": null,
+  "contact": {
+    "email": "info@chicagolanddogrescue.org",
+    "phone": "847-259-6458 ",
+    "address": {
+      "address1": "PO Box 68808",
+      "address2": null,
+      "city": "Schaumburg",
+      "state": "IL",
+      "postcode": "60168",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51322384" },
+    "type": { "href": "/v2/types/dog" },
+    "organization": { "href": "/v2/organizations/il188" }
+  }
+}
