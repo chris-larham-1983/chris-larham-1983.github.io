@@ -1,0 +1,106 @@
+{
+  "id": 51321978,
+  "organization_id": "MI1028",
+  "url": "https://www.petfinder.com/cat/reef-a-2841-51321978/mi/eaton-rapids/saved-by-zade-mi1028/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+  "type": "Cat",
+  "species": "Cat",
+  "breeds": {
+    "primary": "Russian Blue",
+    "secondary": "Tabby",
+    "mixed": true,
+    "unknown": false
+  },
+  "colors": {
+    "primary": "Gray / Blue / Silver",
+    "secondary": "Tabby (Gray / Blue / Silver)",
+    "tertiary": null
+  },
+  "age": "Baby",
+  "gender": "Male",
+  "size": "Medium",
+  "coat": "Short",
+  "attributes": {
+    "spayed_neutered": true,
+    "house_trained": true,
+    "declawed": false,
+    "special_needs": false,
+    "shots_current": true
+  },
+  "environment": { "children": false, "dogs": true, "cats": true },
+  "tags": [
+    "Playful",
+    "Cuddly",
+    "Independent",
+    "Hungry",
+    "Smart",
+    "Alert",
+    "Interactive"
+  ],
+  "name": "Reef A-2841",
+  "description": "Hi! I\u0026#039;m Reef! If you\u0026#039;re looking for someone to pour your heart into, please consider me.  I\u0026#039;m about 6 months...",
+  "organization_animal_id": null,
+  "photos": [
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/?bust=1619218652\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/?bust=1619218652\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/?bust=1619218652\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/?bust=1619218652"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/1/?bust=1619218213\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/1/?bust=1619218213\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/1/?bust=1619218213\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/1/?bust=1619218213"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/2/?bust=1619218215\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/2/?bust=1619218215\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/2/?bust=1619218215\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/2/?bust=1619218215"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/3/?bust=1619218219\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/3/?bust=1619218219\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/3/?bust=1619218219\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/3/?bust=1619218219"
+    },
+    {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/4/?bust=1619218221\u0026width=100",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/4/?bust=1619218221\u0026width=300",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/4/?bust=1619218221\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/4/?bust=1619218221"
+    }
+  ],
+  "primary_photo_cropped": {
+    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/crop/?bust=1619218652\u0026width=300",
+    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/crop/?bust=1619218652\u0026width=450",
+    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/crop/?bust=1619218652\u0026width=600",
+    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51321978/5/crop/?bust=1619218652"
+  },
+  "videos": [
+    {
+      "embed": "\u003Ciframe title=\u0022Video\u0022 frameborder=\u00220\u0022 allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen name=\u0022vidly-frame\u0022 src=\u0022https://s.vid.ly/embeded.html?link=v0t9j7\u0026autoplay=false\u0022\u003E\u003Ca target=\u0022_blank\u0022 href=\u0022https://vid.ly/v0t9j7\u0022\u003E\u003Cimg src=\u0022https://cf.cdn.vid.ly/v0t9j7/poster.jpg\u0022 /\u003E\u003C/a\u003E\u003C/iframe\u003E"
+    }
+  ],
+  "status": "adoptable",
+  "status_changed_at": "2021-04-23T22:55:21+0000",
+  "published_at": "2021-04-23T22:55:21+0000",
+  "distance": null,
+  "contact": {
+    "email": "adoptions@savedbyzade.com",
+    "phone": null,
+    "address": {
+      "address1": null,
+      "address2": null,
+      "city": "Eaton Rapids",
+      "state": "MI",
+      "postcode": "48827",
+      "country": "US"
+    }
+  },
+  "_links": {
+    "self": { "href": "/v2/animals/51321978" },
+    "type": { "href": "/v2/types/cat" },
+    "organization": { "href": "/v2/organizations/mi1028" }
+  }
+}
