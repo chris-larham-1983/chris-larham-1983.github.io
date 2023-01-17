@@ -22,6 +22,7 @@ The projects that this website showcases are as follows:
 - a responsive React app that interfaces with the *Reddit JSON API* 
 - an e-commerce application *REST API*
 - a pet adoption website, *Adopt a Pet!*
+- *Mars Imgs*, a **PERN** stack ecommerce website
 
 This personal portfolio website is structured as followed:
 
