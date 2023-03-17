@@ -285,6 +285,11 @@ figure img {
     border: 5px solid #24310C;
     border-radius: 5px;
 }
+/* adds hover effect for 'project_examples' div: */
+#project_examples figure:hover {
+    border: 5px solid khaki;
+}
+
 
 /* sets the height, top border, and border radius properties of the <figcaption> elements inside the 'project_examples' <div> element: */
 #project_examples figcaption {
