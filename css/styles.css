@@ -408,7 +408,35 @@ hr {
     grid-area: qualification14;
 }
 
-/* defines the 1 x 14 layout of certificates on mobile devices, and also specifies the width of the <form> element on such devices: */
+.qualification15 {
+    grid-area: qualification15;
+}
+
+.qualification16 {
+    grid-area: qualification16;
+}
+
+.qualification17 {
+    grid-area: qualification17;
+}
+
+.qualification18 {
+    grid-area: qualification18;
+}
+
+.qualification19 {
+    grid-area: qualification19;
+}
+
+.qualification20 {
+    grid-area: qualification20;
+}
+
+.qualification21 {
+    grid-area: qualification21;
+}
+
+/* defines the 21 (rows) x 1 (column) layout of certificates on mobile devices, and also specifies the width of the <form> element on such devices: */
 @media only screen and (min-width: 300px) {
     form {
         width: 300px;
@@ -416,7 +444,7 @@ hr {
     .qualification_grid_container {
         width: 1fr;
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(14, auto);
+        grid-template-rows: repeat(21, auto);
         grid-template-areas: "qualification1"
                              "qualification2"
                              "qualification3"
@@ -430,11 +458,18 @@ hr {
                              "qualification11"
                              "qualification12"
                              "qualification13"
-                             "qualification14";
+                             "qualification14"
+                             "qualification15"
+                             "qualification16"
+                             "qualification17"
+                             "qualification18"
+                             "qualification19"
+                             "qualification20"
+                             "qualification21";
     }
 }
 
-/* defines the 2 x 7 layout of certificates on devices with a minimum width of 620px, and also specifies the width of the <form> element on such devices: */
+/* defines the 11 (rows) x 2 (columns) layout of certificates on devices with a minimum width of 620px, and also specifies the width of the <form> element on such devices: */
 @media only screen and (min-width: 700px) {
     form {
         width: 600px;
@@ -442,14 +477,18 @@ hr {
     .qualification_grid_container {
         width: 650px;
         grid-template-columns: repeat(2, 300px);
-        grid-template-rows: repeat(7, 450px);
+        grid-template-rows: repeat(11, 450px);
         grid-template-areas: "qualification1 qualification2"
                              "qualification3 qualification4"
                              "qualification5 qualification6"
                              "qualification7 qualification8"
                              "qualification9 qualification10"
                              "qualification11 qualification12"
-                             "qualification13 qualification14";
+                             "qualification13 qualification14"
+                             "qualification15 qualification16"
+                             "qualification17 qualification18"
+                             "qualification19 qualification20"
+                             "qualification21 .";
     }
     /* defines the increased grid areas for the qualification <img>s when the cursor is hovered thereon: */
     .qualification1:hover, .qualification2:hover {
@@ -472,13 +511,29 @@ hr {
         grid-area: 5 / 1 / 7 / 3;
         z-index: 1;
     }
-    .qualification11:hover, .qualification12:hover, .qualification13:hover, .qualification14:hover {
+    .qualification11:hover, .qualification12:hover {
         grid-area: 6 / 1 / 8 / 3;
+        z-index: 1;
+    }
+    .qualification13:hover, .qualification14:hover {
+        grid-area: 7 / 1 / 9 / 3;
+        z-index: 1;
+    }
+    .qualification15:hover, .qualification16:hover {
+        grid-area: 8 / 1 / 10 / 3;
+        z-index: 1;
+    }
+    .qualification17:hover, .qualification18:hover {
+        grid-area: 9 / 1 / 11 / 3;
+        z-index: 1;
+    }
+    .qualification19:hover, .qualification20:hover, .qualification21:hover {
+        grid-area: 10 / 1 / 12 / 3;
         z-index: 1;
     }
 }
 
-/* defines the 3 x 5 layout of certificates on devices with a minimum width of 1050px, and also defines the width of the <form> element on such devices: */
+/* defines the 7 (rows) x 3 (columns) layout of certificates on devices with a minimum width of 1050px, and also defines the width of the <form> element on such devices: */
 @media only screen and (min-width: 1050px) {
     form {
         width: 900px;
@@ -486,12 +541,14 @@ hr {
     .qualification_grid_container {
         width: 1000px;
         grid-template-columns: repeat(3, 300px);
-        grid-template-rows: repeat(5, 450px);
+        grid-template-rows: repeat(7, 450px);
         grid-template-areas: "qualification1 qualification2 qualification3"
                              "qualification4 qualification5 qualification6"
                              "qualification7 qualification8 qualification9"
                              "qualification10 qualification11 qualification12"
-                             "qualification13 qualification14 .";
+                             "qualification13 qualification14 qualification15"
+                             "qualification16 qualification17 qualification18"
+                             "qualification19 qualification20 qualification21";
     }
     /* defines the increased grid areas of the qualification <img>s when the cursor is hovered thereon: */
     .qualification1:hover, .qualification2:hover {
@@ -518,7 +575,7 @@ hr {
         grid-area: 3 / 2 / 5 / 4;
         z-index: 1;
     }
-    .qualification10:hover, .qualification11:hover, .qualification13:hover, .qualification14:hover {
+    .qualification10:hover, .qualification11:hover {
         grid-area: 4 / 1 / 6 / 3;
         z-index: 1;
     }
@@ -526,9 +583,25 @@ hr {
         grid-area: 4 / 2 / 6 / 4;
         z-index: 1;
     }
+    .qualification13:hover, .qualification14:hover {
+        grid-area: 5 / 1 / 7 / 3;
+        z-index: 1;
+    }
+    .qualification15:hover {
+        grid-area: 5 / 2 / 7 / 4;
+        z-index: 1;
+    }
+    .qualification16:hover, .qualification17:hover, .qualification19:hover, .qualification20:hover {
+        grid-area: 6 / 1 / 8 / 3;
+        z-index: 1;
+    }
+    .qualification18:hover, .qualification21:hover {
+        grid-area: 6 / 2 / 8 / 4;
+        z-index: 1;
+    }
 }
 
-/* defines a 4 x 4 layout of certificates on devices with a minimum width of 1400px, and also specifies the width of the <form> element on such devices: */
+/* defines a 6 (rows) x 4 (columns) layout of certificates on devices with a minimum width of 1400px, and also specifies the width of the <form> element on such devices: */
 @media only screen and (min-width: 1400px) {
     form {
         width: 1200px;
@@ -538,9 +611,11 @@ hr {
         grid-template-areas: "qualification1 qualification2 qualification3 qualification4"
                              "qualification5 qualification6 qualification7 qualification8"
                              "qualification9 qualification10 qualification11 qualification12"
-                             "qualification13 qualification14 . .";
+                             "qualification13 qualification14 qualification15 qualification16"
+                             "qualification17 qualification18 qualification19 qualification20"
+                             "qualification21 . . .";
         grid-template-columns: repeat(4, 300px);
-        grid-template-rows: repeat(4, 450px);
+        grid-template-rows: repeat(7, 450px);
     }
     /* defines the increased grid areas of the qualification <img>s when the cursor is hovered thereon: */
     .qualification1:hover, .qualification2:hover {
@@ -559,12 +634,28 @@ hr {
         grid-area: 2 / 3 / 4 / 5;
         z-index: 1;
     }
-    .qualification9:hover, .qualification10:hover, .qualification13:hover, .qualification14:hover {
+    .qualification9:hover, .qualification10:hover {
         grid-area: 3 / 1 / 5 / 3;
         z-index: 1;
     }
     .qualification11:hover, .qualification12:hover {
         grid-area: 3 / 3 / 5 / 5;
+        z-index: 1;
+    }
+    .qualification13:hover, .qualification14:hover {
+        grid-area: 4 / 1 / 6 / 3;
+        z-index: 1;
+    }
+    .qualification15:hover, .qualification16:hover {
+        grid-area: 4 / 3 / 6 / 5;
+        z-index: 1;
+    }
+    .qualification17:hover, .qualification18:hover, .qualification21:hover {
+        grid-area: 5 / 1 / 7 / 3;
+        z-index: 1;
+    }
+    .qualification19:hover, .qualification20:hover {
+        grid-area: 5 / 3 / 7 / 5;
         z-index: 1;
     }
 }
