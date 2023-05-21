@@ -615,7 +615,7 @@ hr {
                              "qualification17 qualification18 qualification19 qualification20"
                              "qualification21 . . .";
         grid-template-columns: repeat(4, 300px);
-        grid-template-rows: repeat(7, 450px);
+        grid-template-rows: repeat(6, 450px);
     }
     /* defines the increased grid areas of the qualification <img>s when the cursor is hovered thereon: */
     .qualification1:hover, .qualification2:hover {
