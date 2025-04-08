@@ -23,8 +23,6 @@ The projects that this website showcases are as follows:
 - an e-commerce application *REST API*
 - a pet adoption website, *Adopt a Pet!*
 - *Debugging Test*, a repository that shows how I helped a fellow Codecademy learner to overcome challenges he encountered in his project
-- *Mars Imgs*, a **PERN** stack ecommerce website
-- *Opportunity Rover*, a **PERN** stack martian imagery website
 
 This personal portfolio website is structured as followed:
 
